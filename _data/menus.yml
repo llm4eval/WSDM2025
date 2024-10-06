@@ -1,0 +1,33 @@
+main:
+  - name: "Workshop"
+    url: "/workshop/"
+    weight: 2
+  - name: "CFP"
+    url: "/cfp/"
+    weight: 3
+  - name: "Challenge"
+    url: "/challenge/"
+    weight: 4
+  - name: "Accepted Papers"
+    url: "/papers/"
+    weight: 5
+  - name: "Program"
+    url: "/program/"
+    weight: 6
+  - name: "Organisers"
+    url: "/organisers/"
+    weight: 7
+  # - name: "About"
+  #   url: "/about/"
+  #   weight: 7
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 8
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 2
