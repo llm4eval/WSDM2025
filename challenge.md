@@ -58,8 +58,9 @@ We provide a step-by-step Google Form to submit the detailed submission files. P
 
 ### Section 1: Team information
 1. Team Name/ID
-2. Team Members
-3. Email
+2. Run ID
+3. Team Members
+4. Email
 
 ### Section 2: Submission of detailed information
 1. Which LLM did you use for the challenge?
