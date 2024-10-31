@@ -9,7 +9,7 @@ bodyClass: page-about
 <img style="vertical-align:middle" width="50px" height="40px" src="../images/logo/LLMJudge-logo.png" /> LLMJudge Overview
 </h1>
 
-The LLMJudge challenge is organized as part of the LLM4Eval workshop at SIGIR 2024. Test collections are essential for evaluating information retrieval (IR) systems. Evaluating and tuning a search system largely depends on relevance labels, which indicate whether a document is useful for a specific search and user. However, collecting relevance judgments on a large scale is costly and resource-intensive. Consequently, typical experiments rely on third-party labellers who may not always produce accurate annotations. The LLMJudge challenge aims to explore an alternative approach by using LLMs to generate relevance judgments. Recent studies have shown that LLMs can generate reliable relevance judgments for search systems. Nevertheless, it remains unclear which LLMs can match the accuracy of human labellers, which prompts are most effective, how fine-tuned open-source LLMs compare to closed-source LLMs like GPT-4, whether there are biases in synthetically generated data, and if data leakage affects the quality of generated labels. This challenge will investigate these questions, and the collected data will be released as a package to support automatic relevance judgment research in information retrieval and search.
+The LLMJudge challenge is organized as part of the LLM4Eval workshop at WSDM 2025. Test collections are essential for evaluating information retrieval (IR) systems. Evaluating and tuning a search system largely depends on relevance labels, which indicate whether a document is useful for a specific search and user. However, collecting relevance judgments on a large scale is costly and resource-intensive. Consequently, typical experiments rely on third-party labellers who may not always produce accurate annotations. The LLMJudge challenge aims to explore an alternative approach by using LLMs to generate relevance judgments. Recent studies have shown that LLMs can generate reliable relevance judgments for search systems. Nevertheless, it remains unclear which LLMs can match the accuracy of human labellers, which prompts are most effective, how fine-tuned open-source LLMs compare to closed-source LLMs like GPT-4, whether there are biases in synthetically generated data, and if data leakage affects the quality of generated labels. This challenge will investigate these questions, and the collected data will be released as a package to support automatic relevance judgment research in information retrieval and search.
 
 The detailed description of the challenge can be found in the following document.
 
@@ -80,7 +80,7 @@ We provide a step-by-step Google Form to submit the detailed submission files. P
 ## Timeline
 - Data Release: __TBA__
 - Submission Deadline: Up until __TBA__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
-- Overview of Results: The overview of results will be at LLM4Eval@SIGIR2024 which will take place on __TBA__ (exact details TBD).
+- Overview of Results: The overview of results will be at LLM4Eval@WSDM2025 which will take place on __TBA__ (exact details TBD).
 
 _All deadlines are 11.59 pm UTC -12h ("Anywhere on Earth")._
 
