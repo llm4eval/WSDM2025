@@ -10,13 +10,13 @@ main:
     weight: 4
   # - name: "Accepted Papers"
   #   url: "/papers/"
-  #   weight: 5
-  # - name: "Program"
-  #   url: "/program/"
-  #   weight: 6
+    # weight: 5
+  - name: "Program"
+    url: "/program/"
+    weight: 5
   - name: "Organisers"
     url: "/organisers/"
-    weight: 5
+    weight: 6
   # - name: "About"
   #   url: "/about/"
   #   weight: 7
