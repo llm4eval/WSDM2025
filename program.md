@@ -29,15 +29,13 @@ LLM4Eval is colocated with SIGIR 2024 in Washington D.C., USA and takes place on
 
 # Keynotes
 
-## A Brief History of Automatic Evaluation in IR
+## TBD
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Ian Soboroff__, National Institute of Standards and Technology (NIST)
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __TBA__, TBA
 
-__Abstract.__ The ability of large language models such as GPT4 to respond to natural language instructions with flowing, grammatical text that reflects world knowledge has generated (sorry) significant interest in IR, as it has everywhere, and specifically in the area of IR evaluation. It seems that just as we "prompt" a human assessor to provide a relevance judgment, we can do the same thing with an LLM. Researchers are very excited because the fluent, concise, informed, and perhaps even grounded responses from the LLM feel like interacting with a person, and so we guess they might have some of the same capabilities beyond producing fluent textual responses to prompts. In IR we are always complaining about the costs of human assessments, so perhaps this is solved.
-I would like to point out, although it is not the main thrust of this talk, that if the above is true, IR is solved and we don’t need to have research about it any more. The computer understands the document and the user information need to the degree that it can accurately predict if the document meets the need, and that is what IR systems are supposed to do. Scaling current LLM capabilities to where it can run on your wristwatch is just engineering.
-The actual thrust of this talk will be to review some of the history and literature on automatic evaluation methods. This is not automatic evaluation’s first rodeo, as they say. My arrival at NIST was accompanied by a SIGIR paper proposing that relevant documents could be picked using random sampling, and from that point the race was on. Along the way we have reinforced some things we already knew, like relevance feedback is good, and found some new things we didn’t know.
+__Abstract.__ TBA
 
-__Bio.__ Ian Soboroff is a computer scientist and leader of the Retrieval Group at the National Institute of Standards and Technology (NIST). The Retrieval Group organizes the Text REtrieval Conference (TREC), the Text Analysis Conference (TAC), and the TREC Video Retrieval Evaluation (TRECVID). These are all large, community-based research workshops that drive the state-of-the-art in information retrieval, video search, web search, information extraction, text summarization and other areas of information access. He has co-authored many publications in information retrieval evaluation, test collection building, text filtering, collaborative filtering, and intelligent software agents. His current research interests include building test collections for social media environments and nontraditional retrieval tasks.
+__Bio.__ TBA
 
 ## LLMs as Rankers, Raters, and Rewarders
 
