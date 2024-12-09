@@ -30,7 +30,7 @@ We welcome the following submissions:
 - __Previously unpublished manuscripts__ will be accepted as extended abstracts and full papers (any length between 1 - 9 pages) with unlimited references, formatted according to the latest ACM SIG proceedings template available at http://www.acm.org/publications/proceedings-template. 
 - __Published manuscripts__ can be submitted in their original format.
 
-All submissions should be made through Easychair: [https://easychair.org/conferences/?conf=llm4eval](https://easychair.org/conferences/?conf=llm4eval){:target="_blank"}
+All submissions should be made through Easychair: [https://easychair.org/conferences/?conf=llm4evalwsdm25](https://easychair.org/conferences/?conf=llm4evalwsdm25){:target="_blank"}
 
 All papers will be peer-reviewed (single-blind) by the program committee and judged by their relevance to the workshop, especially to the main themes identified above, and their potential to generate discussion. For already published studies, the paper can be submitted in the original format. These submissions will be reviewed for their relevance to this workshop. All submissions must be in English (PDF format).
 
@@ -38,9 +38,9 @@ All papers will be peer-reviewed (single-blind) by the program committee and jud
 All accepted papers will have a poster presentation with a few selected for spotlight talks. Accepted papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
 
 ## Important Dates
-- Submission Deadline: TBA
-- Acceptance Notifications: TBA
-- Workshop date: TBA
+- Submission Deadline: January 20, 2025
+- Acceptance Notifications: February 10, 2025
+- Workshop date: March 14, 2025
 
 (All time are in AoE time)
 
