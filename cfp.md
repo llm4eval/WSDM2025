@@ -38,9 +38,9 @@ All papers will be peer-reviewed (single-blind) by the program committee and jud
 All accepted papers will have a poster presentation with a few selected for spotlight talks. Accepted papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
 
 ## Important Dates
-- Submission Deadline: January 20, 2025
-- Acceptance Notifications: February 10, 2025
-- Workshop date: March 14, 2025
+- Submission Deadline: __January 20, 2025__
+- Acceptance Notifications: __February 10, 2025__
+- Workshop date: __March 14, 2025__
 
 (All time are in AoE time)
 
