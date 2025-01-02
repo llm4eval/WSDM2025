@@ -77,7 +77,7 @@ We will use Google Forms for submissions. Submissions are open at [https://forms
 1. Final Submission File. Please upload your final result file.
 
 ## Timeline
-- Data Release: https://github.com/llm4eval/LLMJudge
+- Data Release: [https://github.com/llm4eval/LLMJudge](https://github.com/llm4eval/LLMJudge)
 - Submission Deadline: Up until __February 10, 2025__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
 - Overview of Results: The overview of results will be at LLM4Eval@WSDM2025 which will take place on __March 14, 2025__.
 
