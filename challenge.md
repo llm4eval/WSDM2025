@@ -45,8 +45,7 @@ Participants’ results will then be compared in two ways after submission:
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
 
 ## Submission
-We will use Google Forms for submissions. __Submission closed__. <!-- Submissions are open at __[https://forms.gle/SmbW5nYZ89gowBN17](https://forms.gle/SmbW5nYZ89gowBN17)__.  -->
-We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
+We will use Google Forms for submissions. Submissions are open at [https://forms.gle/vwnViH6LEWs1WGVC7](https://forms.gle/vwnViH6LEWs1WGVC7). We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
 
 ```
 <query_id> 0 <passage_id> <relevance_score>
@@ -57,8 +56,8 @@ We provide a step-by-step Google Form to submit the detailed submission files. P
 ## Submission Form (Required Information)
 
 ### Section 1: Team information
-1. Team Name/ID
-2. Run ID
+1. Team ID
+2. Submission ID
 3. Team Members
 4. Email
 
@@ -78,9 +77,9 @@ We provide a step-by-step Google Form to submit the detailed submission files. P
 1. Final Submission File. Please upload your final result file.
 
 ## Timeline
-- Data Release: __TBA__
-- Submission Deadline: Up until __TBA__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
-- Overview of Results: The overview of results will be at LLM4Eval@WSDM2025 which will take place on __TBA__ (exact details TBD).
+- Data Release: https://github.com/llm4eval/LLMJudge
+- Submission Deadline: Up until __February 10, 2025__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
+- Overview of Results: The overview of results will be at LLM4Eval@WSDM2025 which will take place on __March 14, 2025__.
 
 _All deadlines are 11.59 pm UTC -12h ("Anywhere on Earth")._
 
@@ -119,4 +118,3 @@ To ensure reproducibility and facilitate comparison between different submission
 > **7. (Competition and Winners)** Does the challenge have a contest i.e., will there be winners announced at the end of the competition?
 
 Yes, the top-performing teams/submissions will be announced at the workshop.
-
