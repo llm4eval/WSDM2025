@@ -39,7 +39,7 @@ __Bio.__ TBA
 
 ## Ambiguity is King. Down with the King!
 
-<img style="vertical-align:middle" width="100px" height="80px" src="images/team/sean.png"/> __Sean MacAvaney__, University of Glasgow
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/sean.png"/> __Sean MacAvaney__, University of Glasgow
 
 __Abstract.__ Ambiguity is a central challenge in relevance estimation, whether as a component of a retrieval system or in IR system evaluation. Even seemingly straightforward queries can represent many underlying intents, making relevance estimation inherently ambiguous. I will argue that LLM-based evaluations offer us the chance to (partially) overcome these challenges in ambiguity and provide techniques for doing so.
 
