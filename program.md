@@ -31,7 +31,7 @@ LLM4Eval is colocated with WSDM 2025 in Hannover, Germany and takes place on Mar
 
 ## TBD
 
-<img style="vertical-align:middle" width="100px" height="80px" src="#"/> __TBA__, TBA
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/edgar.jpeg"/> __Edgar Meij__, Bloomberg
 
 __Abstract.__ TBA
 
@@ -43,7 +43,7 @@ __Bio.__ TBA
 
 __Abstract.__ Ambiguity is a central challenge in relevance estimation, whether as a component of a retrieval system or in IR system evaluation. Even seemingly straightforward queries can represent many underlying intents, making relevance estimation inherently ambiguous. I will argue that LLM-based evaluations offer us the chance to (partially) overcome these challenges in ambiguity and provide techniques for doing so.
 
-__Bio.__ __Sean is a Lecturer in Machine Learning at the University of Glasgow and a member of the Terrier Team. He did his PhD at Georgetown University under Nazli Goharian and Ophir Frieder, where he was a member of the IR Lab and an ARCS Endowed Scholar. His research focuses on applying machine learning to problems in IR and NLP. He has done research internships at AI2, CNR, Adobe, and MPI-INF. Before graduate school, he worked as a software developer at IIT/SourceTech.
+__Bio.__ Sean is a Lecturer in Machine Learning at the University of Glasgow and a member of the Terrier Team. He did his PhD at Georgetown University under Nazli Goharian and Ophir Frieder, where he was a member of the IR Lab and an ARCS Endowed Scholar. His research focuses on applying machine learning to problems in IR and NLP. He has done research internships at AI2, CNR, Adobe, and MPI-INF. Before graduate school, he worked as a software developer at IIT/SourceTech.
 
 # Panelists
 
