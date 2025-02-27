@@ -29,13 +29,15 @@ LLM4Eval is colocated with WSDM 2025 in Hannover, Germany and takes place on Mar
 
 # Keynotes
 
-## TBD
+## Synthetic Evaluations and GenAI Application Development
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/edgar.jpeg"/> __Edgar Meij__, Bloomberg
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/edgar.jpeg"/> __Edgar Meij__, Head of AI Platforms, Bloomberg
 
-__Abstract.__ TBA
+__Abstract.__ The key to successfully building AI-driven applications is evaluation at all stages of the development lifecycle – ranging from ideation and development to post-release monitoring. At the same time, evaluation is still typically very much a manual process, and LLMs hold promise for faster, easier, and (sometimes) more accurate judgments and annotations.
 
-__Bio.__ TBA
+This keynote focuses on evaluation in an industrial setting, the emergence of synthetic evaluations, the implications of their intersection in light of recent work, and open challenges in this emerging field. The rise of synthetic judgments for evaluation creates many opportunities to augment, support, or replace manual processes, thus enabling more effective and more efficient ways to develop applications. For instance, this includes utilizing explicit or additional context in a more programmatic way, as well as adding support for evaluating session simulations and additional evaluation dimensions, such as safety, succinctness, multi-linguality, model-based feedback, and tool selection.
+
+__Bio.__ Edgar Meij is the head of the AI Platforms division in Bloomberg’s Artificial Intelligence (AI) group, and leads 10+ teams of engineers and researchers that are responsible for all key AI, NLP, ML, LLM/GenAI, and Search technology platforms used across the company. Edgar holds a Ph.D. in computer science from the University of Amsterdam and has an extensive track record in artificial intelligence, information retrieval, natural language processing, machine learning, large-scale computing infrastructures, knowledge graphs, and semantic search. He has published more than 150 papers in top international venues, which have been cited more than 3,000 times. He is also a (Senior) Program Committee member of virtually every major conference in the field (including The Web Conference, WSDM, SIGIR, CIKM, ACL, and EMNLP), has organized tutorials and workshops at those same conferences, has served as sponsorship co-chair for The Web Conference and ECIR, and as co-chair for the Industry Track (SIRIP) for SIGIR 2024.
 
 ## Ambiguity is King. Down with the King!
 
