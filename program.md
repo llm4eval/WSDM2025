@@ -49,10 +49,10 @@ __Bio.__ Sean is a Lecturer in Machine Learning at the University of Glasgow and
 
 # Panelists
 
-<img style="vertical-align:middle" width="100px" height="80px" src="#"/> __TBA__, TBA
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/jaapkamps.jpg"/> __Jaap Kamps__, University of Amsterdam
 
-<img style="vertical-align:middle" width="100px" height="80px" src="#"/> __TBA__, TBA
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/edgar.jpeg"/> __Edgar Meij__, Bloomberg
 
-<img style="vertical-align:middle" width="100px" height="80px" src="#"/> __TBA__, TBA
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/SimoneFilice.jpeg"/> __Filice Simone__, Technology Innovation Institute
 
-<img style="vertical-align:middle" width="100px" height="80px" src="#"/> __TBA__, TBA
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/sean.png"/> __Sean MacAvaney__, University of Glasgow
