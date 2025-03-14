@@ -8,15 +8,15 @@ main:
   - name: "Challenge"
     url: "/challenge/"
     weight: 4
-  # - name: "Accepted Papers"
-  #   url: "/papers/"
-    # weight: 5
+  - name: "Accepted Papers"
+    url: "/papers/"
+    weight: 5
   - name: "Program"
     url: "/program/"
-    weight: 5
+    weight: 6
   - name: "Organisers"
     url: "/organisers/"
-    weight: 6
+    weight: 7
   # - name: "About"
   #   url: "/about/"
   #   weight: 7
