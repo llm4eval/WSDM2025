@@ -11,19 +11,16 @@ LLM4Eval is colocated with WSDM 2025 in Hannover, Germany and takes place on Mar
 | Time          | Agenda                            |
 | ------------- | --------------------------------- |
 | 9:00 - 9:15   | Opening Remarks                   |
-| 9:15 - 10:00  | Keynote 1: __Edgar Meij__ |
-| 10:00 - 10:30 | Booster Talks 1                  |
-| 10:30 - 11:00 | Coffee Break                      |
-| 11:00 - 11:30 | Booster Talks 2                  |
-| 11:30 - 12:30 | Poster Session                    |
+| 9:15 - 10:00  | Keynote 1: __Edgar Meij__         |
+| 10:00 - 11:00 | Booster Talks 1                   |
+| 11:00 - 11:30 | Coffee Break                      |
+| 11:30 - 12:30 | Booster Talks 2                   |
 | 12:30 - 13:30 | Lunch                             |
-| 13:30 - 14:15 | Keynote 2: __Sean MacAvaney__ |
+| 13:30 - 14:15 | Keynote 2: __Sean MacAvaney__     |
 | 14:15 - 14:30 | LLMJudge Presentation             |
-| 14:30 - 14:40 | Discussion Kickoff                |
-| 14:40 - 15:00 | Breakout Discussions              |
+| 14:30 - 15:00 | Breakout Discussion               |
 | 15:00 - 15:30 | Coffee Break                      |
-| 15:30 - 15:50 | Breakout Discussion + Shuffling   |
-| 15:50 - 16:00 | Breakout Discussion summary       |
+| 15:30 - 16:00 | Breakout Discussion               |
 | 16:00 - 16:55 | Panel Discussion                  |
 | 16:55 - 17:00 | Closing                           |
 
