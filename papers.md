@@ -5,7 +5,7 @@ description: Accepted Papers
 bodyClass: page-about
 ---
 
-- __Improving Search Quality with LLMs: Predicting Relevance Labels in Data-Scarce Domains__
+- __[Improving Search Quality with LLMs: Predicting Relevance Labels in Data-Scarce Domains](https://www.researchgate.net/publication/389909158_CRPA_Dataset_Abstract_Screening_in_Systematic_Reviews)__
     * Ishitwa Viranchi, Subhadip Maji and Mahima Chandwani. 
 - __Validating LLM-Generated Relevance Labels for Educational Resource Search__
     * Ratan Sebastian and Anett Hoppe
