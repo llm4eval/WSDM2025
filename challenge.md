@@ -45,7 +45,7 @@ Participants’ results will then be compared in two ways after submission:
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
 
 ## Submission
-We will use Google Forms for submissions. Submissions are open at [https://forms.gle/vwnViH6LEWs1WGVC7](https://forms.gle/vwnViH6LEWs1WGVC7). We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
+We will use Google Forms for submissions. Submission is closed. We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
 
 ```
 <query_id> 0 <passage_id> <relevance_score>
