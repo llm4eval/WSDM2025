@@ -19,5 +19,5 @@ bodyClass: page-about
     * Sumit Koundanya, Shubham Kumbhar, Siddharth Tumre and Sangameshwar Patil
 - __Identifying IR Data Labeling errors using LLMs__
     * Sean D Rosario
-- __Augmented Relevance Datasets with Fine-Tuned Small LLMs__
+- __[Augmented Relevance Datasets with Fine-Tuned Small LLMs](https://arxiv.org/abs/2504.09816)__
     * Quentin Fitte-Rey, Matyas Amrouche and Romain Deveaud
