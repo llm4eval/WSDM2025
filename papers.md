@@ -7,7 +7,7 @@ bodyClass: page-about
 
 - __Improving Search Quality with LLMs: Predicting Relevance Labels in Data-Scarce Domains__
     * Ishitwa Viranchi, Subhadip Maji and Mahima Chandwani. 
-- __Validating LLM-Generated Relevance Labels for Educational Resource Search__
+- __[Validating LLM-Generated Relevance Labels for Educational Resource Search](https://arxiv.org/pdf/2504.12732)__
     * Ratan Sebastian and Anett Hoppe
 - __Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana__
     * Simone Filice, Guy Horowitz, David Carmel, Zohar Karnin, Liane Lewin-Eytan and Yoelle Maarek
